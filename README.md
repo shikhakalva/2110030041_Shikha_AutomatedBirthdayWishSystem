@@ -3,6 +3,6 @@ Project : Automated Birthday Wish System: 2110030110 , 2110030100, 2110030019 , 
 
 Review-1
 
-class Diagrams
-use - case
+class Diagrams,
+use - case,
 Sequence
